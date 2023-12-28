@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "Snowbound: One-Shot"
+  author: "James Salvatore"
+  date: "12/27/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+
+# bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
