@@ -7,15 +7,22 @@ book:
   date: "12/27/2023"
   chapters:
     - index.qmd
-    - intro.qmd
+    - act_i.qmd
 
 # bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: cyborg
   pdf:
     documentclass: scrreprt
 
+# Themes I like:
+# Light: lux, cosmo, cerulean, journal, lumen
+# Dark: darkly, cyborg.
 
+# TODO: Maybe figure out how to make lux into a dark theme...
+# TODO: Lux doesn't allow for bold, etc., formatting.
 
