@@ -2,5 +2,5 @@
 
 | HP  | AC  | Speed | Size  | Creature Type | Attacks                      |
 | --- | --- | ----- | ----- | ------------- | ---------------------------- |
-| 10  | 12  | 30m   | Small | Goblin        | Ice-Bone Sword (1d6 Slashing)|
+|  8  | 12  | 30m   | Small | Goblin        | Ice-Bone Sword (1d6 Slashing)|
 |     |     |       |       |               | Snowball (2d4 Bludgeoning)   |
