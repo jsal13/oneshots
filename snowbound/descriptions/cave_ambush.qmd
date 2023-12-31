@@ -1,0 +1,20 @@
+### Cave Ambush!
+
+As the party cautiously enters the cave, the dim light barely penetrates the darkness within. The air is musty, carrying a distinct chill that seeps into their bones, contrasting sharply with the biting cold outside. The flickering flames of a small fire pit cast eerie shadows on the cave walls.
+
+Before they can fully acclimate to the dimness, a series of guttural growls echo from the shadows. Suddenly, you see figures in the darkness --- [Ice Cavern Goblins](#ice-cavern-goblin).  These goblins, adapted to the harsh environment, wear fur-lined cloaks and wield crude yet effective weapons crafted from ice and bone. Their eyes gleam with a predatory glint as they launch their ambush, hurling ice-tipped javelins.  They seem to be in a defensive stance.
+
+:::{.callout-note}
+**DM**: The party can either be friends or foes here.  Fighting them will reward them with some loot, but making friends will allow the goblins to show the party where the relic --- as well as a completely separate, but equally powerful relic --- is located.
+
+:::
+
+```{mermaid}
+flowchart LR
+  A{Party Decision}
+  A-->|FIGHT|B["Get Ice-Bone swords, some firs, and gold.\n  One has the relic."]
+  A-->|FRIENDS|C["The goblins show the party where the relic\n --- as well as a completely separate,\n but equally powerful relic --- is located."]
+
+  linkStyle 0 stroke:red, stroke-width:4px
+  linkStyle 1 stroke:blue, stroke-width:4px
+```

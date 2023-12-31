@@ -1,0 +1,6 @@
+### Frostbound Kobold {#frostbound-kobold}
+
+| HP  | AC  | Speed | Size  | Creature Type | Attacks                    |
+| --- | --- | ----- | ----- | ------------- | -------------------------- |
+| 10  | 12  | 30m   | Small | Kobold        | Spear (1d6 Piercing)       |
+|     |     |       |       |               | Snowball (2d4 Bludgeoning) |

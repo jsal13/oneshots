@@ -1,3 +1,5 @@
+### Introduction
+
 The biting cold cuts through the air like a thousand icy daggers, a relentless blizzard sweeping across the barren landscape. The land, blanketed in a pristine sheet of snow, stretches out in every direction, an endless expanse of white broken only by the occasional jagged rock jutting out of the frozen ground.
 
 The howling winds whip the snow into a frenzy, creating swirling, ghostly shapes that dance and twist before disappearing into the storm. **Visibility is limited to mere feet, the world beyond obscured by a veil of relentless snowflakes.**
@@ -17,5 +19,5 @@ Occasionally, the lead wagon stops, and a traveler wielding a sturdy pole hops d
 **It will take a half-day, Eldrid says, to reach the base.**
 
 ::: {.alert .alert-primary}
-**The blizzard picks up and the wagons are circled to keep out the wind.  You sit in the center of the wagon circle with a few others wrapped in furs with a small fire burning in front of you.**
+**The blizzard picks up and the wagons are circled to keep out the wind.  You sit in the center of the wagon circle with a few others wrapped in furs with a small fire burning in front of you.  You have been paid by the Duke to keep this wagon party safe so that they might recover a particularly valuable artifact.**
 :::

@@ -7,7 +7,9 @@ book:
   date: "12/27/2023"
   chapters:
     - index.qmd
-    - act_i.qmd
+    - ./acts/act_1.qmd
+    - ./acts/act_2.qmd
+    - ./acts/act_3.qmd
 
 # bibliography: references.bib
 

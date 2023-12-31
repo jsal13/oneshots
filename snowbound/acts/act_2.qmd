@@ -1,0 +1,15 @@
+# Act II
+
+## Story 
+
+{{< include ../descriptions/traveling_to_the_mountain.qmd >}}
+
+{{< include ../descriptions/cave_ambush.qmd >}}
+
+## NPCs
+
+{{< include ../data/npcs.qmd >}}
+
+## Enemies
+
+{{< include ../data/beast_ice_cavern_goblin.qmd >}}

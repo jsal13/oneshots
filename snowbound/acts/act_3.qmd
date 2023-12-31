@@ -1,0 +1,9 @@
+# Act III
+
+## Story
+
+{{< include ../descriptions/returning_to_the_village.qmd >}}
+
+## NPCs
+
+{{< include ../data/npcs.qmd >}}

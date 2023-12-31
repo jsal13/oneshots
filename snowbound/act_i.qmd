@@ -1,9 +1,0 @@
-# Act I
-
-## Starting Point
-
-{{< include ./descriptions/introduction.qmd >}}
-
-## NPCs
-
-{{< include ./info/npcs.qmd >}}
