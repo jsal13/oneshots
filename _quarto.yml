@@ -6,13 +6,13 @@ book:
   author: "James Salvatore"
   date: "12/27/2023"
   chapters:
-  - part: "Snowbound"
-    chapters:
     - index.qmd
-    - ./snowbound/acts/act_1.qmd
-    - ./snowbound/acts/act_2.qmd
-    - ./snowbound/acts/act_3.qmd
-    - ./snowbound/data/_reference.qmd
+    - part: "Snowbound"
+      chapters:
+      - ./snowbound/acts/act_1.qmd
+      - ./snowbound/acts/act_2.qmd
+      - ./snowbound/acts/act_3.qmd
+      - ./snowbound/data/_reference.qmd
   sidebar:
     collapse-level: 1
 
