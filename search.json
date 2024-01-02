@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "One-Shots",
     "section": "",
-    "text": "Oneshots\nThis is a collection of one-shots! See the side bar for more details."
+    "text": "One-Shots\nThis is a collection of one-shots! See the side bar for more details."
   },
   {
     "objectID": "snowbound/acts/act_1.html#story",
@@ -63,15 +63,15 @@
     "text": "NPCs\n\nEldrid Frostbeard\nA grizzled dwarf merchant leading the caravan, Eldrid is known for his shrewd business sense and encyclopedic knowledge of rare artifacts. He seeks adventurers willing to escort his goods to a remote outpost.\n\n\nLyra Windrider\nA young elven druid traveling with the caravan. She’s attuned to the natural world and offers guidance on surviving in the harsh wilderness. Lyra seeks rare herbs and plants rumored to bloom even in the coldest of winters.\n\n\nIngrid Snowcloak\nA mysterious tiefling warlock who keeps to herself. Darius seems haunted by a dark past and seeks a relic rumored to be buried in the icy wastelands.\n\n\nElena Frostwind\nA young wizard’s apprentice eager for adventure. She’s in search of a lost arcane tome said to hold secrets of ancient spells, and she’s willing to assist adventurers in exchange for their aid in her quest."
   },
   {
-    "objectID": "snowbound/data/_reference.html#npcs",
-    "href": "snowbound/data/_reference.html#npcs",
+    "objectID": "snowbound/_reference.html#npcs",
+    "href": "snowbound/_reference.html#npcs",
     "title": "Reference",
     "section": "NPCs",
     "text": "NPCs\n\nEldrid Frostbeard\nA grizzled dwarf merchant leading the caravan, Eldrid is known for his shrewd business sense and encyclopedic knowledge of rare artifacts. He seeks adventurers willing to escort his goods to a remote outpost.\n\n\nLyra Windrider\nA young elven druid traveling with the caravan. She’s attuned to the natural world and offers guidance on surviving in the harsh wilderness. Lyra seeks rare herbs and plants rumored to bloom even in the coldest of winters.\n\n\nIngrid Snowcloak\nA mysterious tiefling warlock who keeps to herself. Darius seems haunted by a dark past and seeks a relic rumored to be buried in the icy wastelands.\n\n\nElena Frostwind\nA young wizard’s apprentice eager for adventure. She’s in search of a lost arcane tome said to hold secrets of ancient spells, and she’s willing to assist adventurers in exchange for their aid in her quest."
   },
   {
-    "objectID": "snowbound/data/_reference.html#enemies",
-    "href": "snowbound/data/_reference.html#enemies",
+    "objectID": "snowbound/_reference.html#enemies",
+    "href": "snowbound/_reference.html#enemies",
     "title": "Reference",
     "section": "Enemies",
     "text": "Enemies\n\nFrostbound Kobold\n\n\n\n\n\n\n\n\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n5\n12\n30m\nSmall\nKobold\nSpear (1d6 Piercing)\n\n\n\n\n\n\n\nSnowball (2d4 Bludgeoning)\n\n\n\n\n\nIce Cavern Goblin\n\n\n\n\n\n\n\n\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n8\n12\n30m\nSmall\nGoblin\nIce-Bone Sword (1d6 Slashing)\n\n\n\n\n\n\n\nSnowball (2d4 Bludgeoning)"
