@@ -1,0 +1,11 @@
+# Reference {.unnumbered}
+
+## NPCs
+
+{{< include ./npcs.qmd >}}
+
+## Enemies
+
+{{< include ./beast_frostbound_kobold.qmd >}}
+
+{{< include ./beast_ice_cavern_goblin.qmd >}}

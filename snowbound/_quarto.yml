@@ -10,6 +10,7 @@ book:
     - ./acts/act_1.qmd
     - ./acts/act_2.qmd
     - ./acts/act_3.qmd
+    - ./data/_reference.qmd
 
 # bibliography: references.bib
 
