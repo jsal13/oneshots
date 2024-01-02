@@ -12,7 +12,7 @@ book:
       - ./snowbound/acts/act_1.qmd
       - ./snowbound/acts/act_2.qmd
       - ./snowbound/acts/act_3.qmd
-      - ./snowbound/data/_reference.qmd
+      - ./snowbound/_reference.qmd
   sidebar:
     collapse-level: 1
 
