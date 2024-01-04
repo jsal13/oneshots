@@ -75,5 +75,75 @@
     "title": "Reference",
     "section": "Enemies",
     "text": "Enemies\n\nFrostbound Kobold\n\n\n\n\n\n\n\n\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n5\n12\n30m\nSmall\nKobold\nSpear (1d6 Piercing)\n\n\n\n\n\n\n\nSnowball (2d4 Bludgeoning)\n\n\n\n\n\nIce Cavern Goblin\n\n\n\n\n\n\n\n\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n8\n12\n30m\nSmall\nGoblin\nIce-Bone Sword (1d6 Slashing)\n\n\n\n\n\n\n\nSnowball (2d4 Bludgeoning)"
+  },
+  {
+    "objectID": "lonelygoblins/acts/act_1.html#story",
+    "href": "lonelygoblins/acts/act_1.html#story",
+    "title": "Act I",
+    "section": "Story",
+    "text": "Story\n\nIntroduction\nAs the sun dips beneath the horizon, you find you party walking along a serene forest path, lined with towering oaks and the gentle rustling of leaves. In the distance, atop a small hill, you spot the faint glow of torches flickering against the darkening sky. As you approach, the silhouette of a modest stone abbey comes into view, its peaceful aura disrupted by signs of distress.\nThe abbey, Antwound Abbey, dedicated to a forgotten deity, is a humble refuge for weary travelers and a sanctuary for those seeking solace. However, tonight, an air of unease hangs heavy as worried faces peer through windows and the somber toll of a bell resonates through the stillness of the evening.\nYou’re greeted by a concerned elder. She explain the situation: a nearby goblin camp has become increasingly aggressive, venturing closer to the abbey grounds each passing night. Their raids have disrupted the tranquility of this sacred place, stealing supplies, causing havoc, and instilling fear in the hearts of the resident clergy.\nThe elder implores for assistance. She offer what little she can, hoping that brave adventurers might aid in quelling this menace before it escalates further. The safety of the abbey and its inhabitants now rests upon the shoulders of those willing to stand against the goblin threat.\n\nIt will take a quarter-day, the Elder says, to reach the camp."
+  },
+  {
+    "objectID": "lonelygoblins/acts/act_1.html#npcs",
+    "href": "lonelygoblins/acts/act_1.html#npcs",
+    "title": "Act I",
+    "section": "NPCs",
+    "text": "NPCs\n\nElder Wilhelmina\nThe wise and weathered human leader of the abbey, Elder Wilhelmina is a beacon of strength and wisdom. Her silver hair frames a face marked by experience, and her eyes hold a mix of compassion and concern.\n\n\nBrother Alden\nA young, devout half-orc cleric in training, Brother Alden exudes an unwavering faith in the abbey’s teachings. He’s eager to assist in any way possible,though his enthusiasm sometimes clouds his judgment.\n\n\nSister Emilia\nA skilled herbalist and caretaker, Sister Emilia, a forest elf, tends to the abbey’s garden, cultivating medicinal herbs and plants. She is a skilled botanist.\n\n\nLena the Orphan\nLena is a young orphan who found refuge at the abbey’s doorstep after tragedy befell her family. Despite her difficult past, she maintains an endearing optimism and a mischievous spirit. Lena is quick on her feet and often finds herself exploring every nook and cranny of the abbey grounds. Though there is something strange about the way she stares at you…"
+  },
+  {
+    "objectID": "lonelygoblins/acts/act_2.html#story",
+    "href": "lonelygoblins/acts/act_2.html#story",
+    "title": "Act II",
+    "section": "Story",
+    "text": "Story\n\nApproaching Goblin Camp\nAs the party traverses through the dense forest, the air grows thick with the earthy scent of moss and damp foliage. The path ahead gradually narrows. The distant sounds of discordant voices and the clang of crude metal echo through the woods, growing louder as the adventurers draw closer. Ahead, a faint haze of smoke rises lazily through the trees, marking the location of the goblin camp.\nGoblins, small and wiry, scurry about, their movements quick and erratic. Some sharpen rusty blades, while others tend to scavenged meats roasting over open flames. There are five goblin scouts and a worg. A few squat figures engage in an animated argument, their guttural language filled with gruff tones and sharp barks.\nThe camp itself bears signs of recent raids, with stolen goods piled haphazardly and captured livestock penned in makeshift enclosures.\nThe adventurers have a moment to strategize and observe, hidden in the cover of the forest’s edge.\n\n\n\n\n\n\nNote\n\n\n\nDM: The goblins will not be friends with the party, but, you know. Figure something out if they try that.\n\n\nAfter the fight, there is a quiet calm as the party rests. The sky begins to darken: it would be best to get back to the Abbey."
+  },
+  {
+    "objectID": "lonelygoblins/acts/act_2.html#npcs",
+    "href": "lonelygoblins/acts/act_2.html#npcs",
+    "title": "Act II",
+    "section": "NPCs",
+    "text": "NPCs\n\nElder Wilhelmina\nThe wise and weathered human leader of the abbey, Elder Wilhelmina is a beacon of strength and wisdom. Her silver hair frames a face marked by experience, and her eyes hold a mix of compassion and concern.\n\n\nBrother Alden\nA young, devout half-orc cleric in training, Brother Alden exudes an unwavering faith in the abbey’s teachings. He’s eager to assist in any way possible,though his enthusiasm sometimes clouds his judgment.\n\n\nSister Emilia\nA skilled herbalist and caretaker, Sister Emilia, a forest elf, tends to the abbey’s garden, cultivating medicinal herbs and plants. She is a skilled botanist.\n\n\nLena the Orphan\nLena is a young orphan who found refuge at the abbey’s doorstep after tragedy befell her family. Despite her difficult past, she maintains an endearing optimism and a mischievous spirit. Lena is quick on her feet and often finds herself exploring every nook and cranny of the abbey grounds. Though there is something strange about the way she stares at you…"
+  },
+  {
+    "objectID": "lonelygoblins/acts/act_2.html#enemies",
+    "href": "lonelygoblins/acts/act_2.html#enemies",
+    "title": "Act II",
+    "section": "Enemies",
+    "text": "Enemies\n\nGoblin Scout\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nSling (1d4 Bludgeoning)\n\n\n\n\n\n\n\nDagger (1d4 Piercing)\n\n\n\n\n\nWorg\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n26\n12\n30m\nLarge\nMonstrosity\n(2d6 + 3) Piercing"
+  },
+  {
+    "objectID": "lonelygoblins/acts/act_3.html#story",
+    "href": "lonelygoblins/acts/act_3.html#story",
+    "title": "Act III",
+    "section": "Story",
+    "text": "Story\n\nReturning to the Abbey\nAs the party swiftly makes their way back to the abbey, a sense of urgency propels their steps. The once tranquil path now feels fraught with tension, the distant echoes of the abbey’s bell tolling an ominous warning in the air.\nUpon their return, the serenity that once enveloped the abbey has been shattered. The grounds are in disarray, signs of struggle evident in broken gates and scorch marks marring the walls. Smoke curls skyward from a few smoldering remnants of what were once serene gardens.\nA handful of goblins — three scouts, a shaman, and their worg — likely stragglers from the camp, have launched a brazen attack.\nThe adventurers find themselves thrust into the heart of the skirmish. You’re weary from battle, and no one has seen you so far. You could run away and live to fight another day… or you could fight with Antwound Abbey.\n\n\n\n\n\n\nNote\n\n\n\nDM: The battle happens here. There is little chance of the party convincing these monsters not to attack.\nIf they leave maybe have the goblins see them? Or, you know, maybe they just skedaddle. Read the room.\n\n\n\n\nThe Grateful Abbey\nThe air within the abbey carries a palpable sense of relief and gratitude as the chaos of battle fades into the past. In the aftermath of the successful defense against the goblin raid, a serene atmosphere returns, albeit tinged with the scars of recent conflict.\nElder Wilhelmina, her gaze softened with gratitude and admiration, stands at the forefront of the gathered residents. Her weathered face, usually etched with concern, now holds a radiant smile. She steps forward, the weight of responsibility momentarily lifted from her shoulders.\n“Dear friends,” she begins, her voice carrying a warmth that spreads through the assembly, “words cannot express the depth of our gratitude. You’ve defended our sanctuary, stood alongside us in our hour of need, and through your valor and determination, you’ve preserved the safety of our home.”\n\n\n\n\n\n\nNote\n\n\n\nDM: If Lena is alive and around, you may add the following.\nAmidst the heartfelt thanks, Lena, the young orphan, shyly steps forward, clutching hand-drawn sketches of the adventurers in action. “I drew these for you,” she murmurs, her eyes wide with admiration and gratitude. “So you won’t forget how brave you were!”\n\n\nElder Wilhelmina gives you a cup of yellow-green liquid which smells like oil and tastes like licorice. You and the party have a few cups over dinner. You sleep well in the Abbey dorms that night."
+  },
+  {
+    "objectID": "lonelygoblins/acts/act_3.html#npcs",
+    "href": "lonelygoblins/acts/act_3.html#npcs",
+    "title": "Act III",
+    "section": "NPCs",
+    "text": "NPCs\n\nElder Wilhelmina\nThe wise and weathered human leader of the abbey, Elder Wilhelmina is a beacon of strength and wisdom. Her silver hair frames a face marked by experience, and her eyes hold a mix of compassion and concern.\n\n\nBrother Alden\nA young, devout half-orc cleric in training, Brother Alden exudes an unwavering faith in the abbey’s teachings. He’s eager to assist in any way possible,though his enthusiasm sometimes clouds his judgment.\n\n\nSister Emilia\nA skilled herbalist and caretaker, Sister Emilia, a forest elf, tends to the abbey’s garden, cultivating medicinal herbs and plants. She is a skilled botanist.\n\n\nLena the Orphan\nLena is a young orphan who found refuge at the abbey’s doorstep after tragedy befell her family. Despite her difficult past, she maintains an endearing optimism and a mischievous spirit. Lena is quick on her feet and often finds herself exploring every nook and cranny of the abbey grounds. Though there is something strange about the way she stares at you…"
+  },
+  {
+    "objectID": "lonelygoblins/acts/act_3.html#enemies",
+    "href": "lonelygoblins/acts/act_3.html#enemies",
+    "title": "Act III",
+    "section": "Enemies",
+    "text": "Enemies\n\nGoblin Scout\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nSling (1d4 Bludgeoning)\n\n\n\n\n\n\n\nDagger (1d4 Piercing)\n\n\n\n\n\nGoblin Shaman\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nGuilding Bolt (4d6)\n\n\n\n\n\n\n\nCure Wounds (1d8)\n\n\n\n\n\nWorg\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n26\n12\n30m\nLarge\nMonstrosity\n(2d6 + 3) Piercing"
+  },
+  {
+    "objectID": "lonelygoblins/_reference.html#npcs",
+    "href": "lonelygoblins/_reference.html#npcs",
+    "title": "Reference",
+    "section": "NPCs",
+    "text": "NPCs\n\nElder Wilhelmina\nThe wise and weathered human leader of the abbey, Elder Wilhelmina is a beacon of strength and wisdom. Her silver hair frames a face marked by experience, and her eyes hold a mix of compassion and concern.\n\n\nBrother Alden\nA young, devout half-orc cleric in training, Brother Alden exudes an unwavering faith in the abbey’s teachings. He’s eager to assist in any way possible,though his enthusiasm sometimes clouds his judgment.\n\n\nSister Emilia\nA skilled herbalist and caretaker, Sister Emilia, a forest elf, tends to the abbey’s garden, cultivating medicinal herbs and plants. She is a skilled botanist.\n\n\nLena the Orphan\nLena is a young orphan who found refuge at the abbey’s doorstep after tragedy befell her family. Despite her difficult past, she maintains an endearing optimism and a mischievous spirit. Lena is quick on her feet and often finds herself exploring every nook and cranny of the abbey grounds. Though there is something strange about the way she stares at you…"
+  },
+  {
+    "objectID": "lonelygoblins/_reference.html#enemies",
+    "href": "lonelygoblins/_reference.html#enemies",
+    "title": "Reference",
+    "section": "Enemies",
+    "text": "Enemies\n\nGoblin Scout\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nSling (1d4 Bludgeoning)\n\n\n\n\n\n\n\nDagger (1d4 Piercing)\n\n\n\n\n\nGoblin Shaman\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nGuilding Bolt (4d6)\n\n\n\n\n\n\n\nCure Wounds (1d8)\n\n\n\n\n\nWorg\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n26\n12\n30m\nLarge\nMonstrosity\n(2d6 + 3) Piercing"
   }
 ]
