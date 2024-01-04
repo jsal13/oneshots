@@ -1,0 +1,9 @@
+# Act I
+
+## Story 
+
+{{< include ../descriptions/introduction.qmd >}}
+
+## NPCs
+
+{{< include ../data/npcs.qmd >}}

@@ -1,0 +1,6 @@
+### Goblin Scout {#goblin-scout}
+
+| HP  | AC  | Speed | Size  | Creature Type | Attacks                 |
+| --- | --- | ----- | ----- | ------------- | ----------------------- |
+| 9   | 12  | 30m   | Small | Goblin        | Sling (1d4 Bludgeoning) |
+|     |     |       |       |               | Dagger (1d4 Piercing)   |

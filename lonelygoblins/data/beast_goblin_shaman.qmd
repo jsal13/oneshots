@@ -1,0 +1,6 @@
+### Goblin Shaman {#goblin-shaman}
+
+| HP  | AC  | Speed | Size  | Creature Type | Attacks             |
+| --- | --- | ----- | ----- | ------------- | ------------------- |
+| 9   | 12  | 30m   | Small | Goblin        | Guilding Bolt (4d6) |
+|     |     |       |       |               | Cure Wounds (1d8)   |

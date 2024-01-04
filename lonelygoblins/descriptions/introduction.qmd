@@ -1,0 +1,13 @@
+### Introduction
+
+As the sun dips beneath the horizon, you find you party walking along a serene forest path, lined with towering oaks and the gentle rustling of leaves. In the distance, atop a small hill, you spot the faint glow of torches flickering against the darkening sky. As you approach, the silhouette of a modest stone abbey comes into view, its peaceful aura disrupted by signs of distress.
+
+The abbey, Antwound Abbey, dedicated to a forgotten deity, is a humble refuge for weary travelers and a sanctuary for those seeking solace. However, tonight, an air of unease hangs heavy as worried faces peer through windows and the somber toll of a bell resonates through the stillness of the evening.
+
+You're greeted by a concerned elder. She explain the situation: **a nearby goblin camp has become increasingly aggressive**, venturing closer to the abbey grounds each passing night. Their raids have disrupted the tranquility of this sacred place, stealing supplies, causing havoc, and instilling fear in the hearts of the resident clergy.
+
+The elder implores for assistance.  She offer what little she can, hoping that brave adventurers might aid in quelling this menace before it escalates further. The safety of the abbey and its inhabitants now rests upon the shoulders of those willing to stand against the goblin threat.
+
+::: {.alert .alert-primary}
+**It will take a quarter-day, the Elder says, to reach the camp.**
+:::

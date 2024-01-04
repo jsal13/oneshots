@@ -1,0 +1,6 @@
+### Worg {#worg}
+
+| HP  | AC  | Speed | Size  | Creature Type | Attacks             |
+| --- | --- | ----- | ----- | ------------- | ------------------- |
+| 26   | 12  | 30m   | Large | Monstrosity | (2d6 + 3) Piercing  |
+
