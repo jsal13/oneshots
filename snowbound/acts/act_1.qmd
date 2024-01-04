@@ -6,7 +6,6 @@
 
 {{< include ../descriptions/kobold_ambush.qmd >}}
 
-
 ## NPCs
 
 {{< include ../data/npcs.qmd >}}

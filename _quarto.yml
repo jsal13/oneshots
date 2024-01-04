@@ -16,8 +16,6 @@ book:
   sidebar:
     collapse-level: 1
 
-# bibliography: references.bib
-
 format:
   html:
     theme: 
@@ -25,10 +23,6 @@ format:
       dark: cyborg
   pdf:
     documentclass: scrreprt
-
-# Themes I like:
-# Light: lux, cosmo, cerulean, journal, lumen
-# Dark: darkly, cyborg.
 
 # TODO: Maybe figure out how to make lux into a dark theme...
 # TODO: Lux doesn't allow for bold, etc., formatting.
