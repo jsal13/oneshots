@@ -25,8 +25,8 @@ format:
     theme: 
       light: cosmo
       dark: cyborg
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+  #   documentclass: scrreprt
 
 # TODO: Maybe figure out how to make lux into a dark theme...
 # TODO: Lux doesn't allow for bold, etc., formatting.
