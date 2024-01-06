@@ -63,20 +63,6 @@
     "text": "NPCs\n\nEldrid Frostbeard\nA grizzled dwarf merchant leading the caravan, Eldrid is known for his shrewd business sense and encyclopedic knowledge of rare artifacts. He seeks adventurers willing to escort his goods to a remote outpost.\n\n\nLyra Windrider\nA young elven druid traveling with the caravan. She’s attuned to the natural world and offers guidance on surviving in the harsh wilderness. Lyra seeks rare herbs and plants rumored to bloom even in the coldest of winters.\n\n\nIngrid Snowcloak\nA mysterious tiefling warlock who keeps to herself. Darius seems haunted by a dark past and seeks a relic rumored to be buried in the icy wastelands.\n\n\nElena Frostwind\nA young wizard’s apprentice eager for adventure. She’s in search of a lost arcane tome said to hold secrets of ancient spells, and she’s willing to assist adventurers in exchange for their aid in her quest."
   },
   {
-    "objectID": "snowbound/_reference.html#npcs",
-    "href": "snowbound/_reference.html#npcs",
-    "title": "Reference",
-    "section": "NPCs",
-    "text": "NPCs\n\nEldrid Frostbeard\nA grizzled dwarf merchant leading the caravan, Eldrid is known for his shrewd business sense and encyclopedic knowledge of rare artifacts. He seeks adventurers willing to escort his goods to a remote outpost.\n\n\nLyra Windrider\nA young elven druid traveling with the caravan. She’s attuned to the natural world and offers guidance on surviving in the harsh wilderness. Lyra seeks rare herbs and plants rumored to bloom even in the coldest of winters.\n\n\nIngrid Snowcloak\nA mysterious tiefling warlock who keeps to herself. Darius seems haunted by a dark past and seeks a relic rumored to be buried in the icy wastelands.\n\n\nElena Frostwind\nA young wizard’s apprentice eager for adventure. She’s in search of a lost arcane tome said to hold secrets of ancient spells, and she’s willing to assist adventurers in exchange for their aid in her quest."
-  },
-  {
-    "objectID": "snowbound/_reference.html#enemies",
-    "href": "snowbound/_reference.html#enemies",
-    "title": "Reference",
-    "section": "Enemies",
-    "text": "Enemies\n\nFrostbound Kobold\n\n\n\n\n\n\n\n\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n5\n12\n30m\nSmall\nKobold\nSpear (1d6 Piercing)\n\n\n\n\n\n\n\nSnowball (2d4 Bludgeoning)\n\n\n\n\n\nIce Cavern Goblin\n\n\n\n\n\n\n\n\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n8\n12\n30m\nSmall\nGoblin\nIce-Bone Sword (1d6 Slashing)\n\n\n\n\n\n\n\nSnowball (2d4 Bludgeoning)"
-  },
-  {
     "objectID": "lonelygoblins/acts/act_1.html#story",
     "href": "lonelygoblins/acts/act_1.html#story",
     "title": "Act I",
@@ -129,20 +115,6 @@
     "objectID": "lonelygoblins/acts/act_3.html#enemies",
     "href": "lonelygoblins/acts/act_3.html#enemies",
     "title": "Act III",
-    "section": "Enemies",
-    "text": "Enemies\n\nGoblin Scout\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nSling (1d4 Bludgeoning)\n\n\n\n\n\n\n\nDagger (1d4 Piercing)\n\n\n\n\n\nGoblin Shaman\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nGuilding Bolt (4d6)\n\n\n\n\n\n\n\nCure Wounds (1d8)\n\n\n\n\n\nWorg\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n26\n12\n30m\nLarge\nMonstrosity\n(2d6 + 3) Piercing"
-  },
-  {
-    "objectID": "lonelygoblins/_reference.html#npcs",
-    "href": "lonelygoblins/_reference.html#npcs",
-    "title": "Reference",
-    "section": "NPCs",
-    "text": "NPCs\n\nElder Wilhelmina\nThe wise and weathered human leader of the abbey, Elder Wilhelmina is a beacon of strength and wisdom. Her silver hair frames a face marked by experience, and her eyes hold a mix of compassion and concern.\n\n\nBrother Alden\nA young, devout half-orc cleric in training, Brother Alden exudes an unwavering faith in the abbey’s teachings. He’s eager to assist in any way possible,though his enthusiasm sometimes clouds his judgment.\n\n\nSister Emilia\nA skilled herbalist and caretaker, Sister Emilia, a forest elf, tends to the abbey’s garden, cultivating medicinal herbs and plants. She is a skilled botanist.\n\n\nLena the Orphan\nLena is a young orphan who found refuge at the abbey’s doorstep after tragedy befell her family. Despite her difficult past, she maintains an endearing optimism and a mischievous spirit. Lena is quick on her feet and often finds herself exploring every nook and cranny of the abbey grounds. Though there is something strange about the way she stares at you…"
-  },
-  {
-    "objectID": "lonelygoblins/_reference.html#enemies",
-    "href": "lonelygoblins/_reference.html#enemies",
-    "title": "Reference",
     "section": "Enemies",
     "text": "Enemies\n\nGoblin Scout\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nSling (1d4 Bludgeoning)\n\n\n\n\n\n\n\nDagger (1d4 Piercing)\n\n\n\n\n\nGoblin Shaman\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nGuilding Bolt (4d6)\n\n\n\n\n\n\n\nCure Wounds (1d8)\n\n\n\n\n\nWorg\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n26\n12\n30m\nLarge\nMonstrosity\n(2d6 + 3) Piercing"
   }
