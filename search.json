@@ -32,7 +32,7 @@
     "href": "oneshots/snowbound/acts/act_1.html#monster-frostbound-kobold",
     "title": "Act I",
     "section": "Frostbound Kobold",
-    "text": "Frostbound Kobold\n\n\n\nHP: 5\nAC: [{'type': 'dex', 'value': 12}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Lawful Evil)\nXP: 25\n\n\nVulnerabilities: fire\n\n\nResists: cold\n\n\nLanguages: Common, draconic"
+    "text": "Frostbound Kobold\n\n\n\nHP: 5\nAC: 12\nSpeed: 30 feet\n\n\nType: Small Humanoid (Lawful Evil)\nXP: 25\n\n\nVulnerabilities: fire\n\n\nResists: cold\n\n\nLanguages: Common, draconic"
   },
   {
     "objectID": "oneshots/snowbound/acts/act_2.html#story",
@@ -60,7 +60,7 @@
     "href": "oneshots/snowbound/acts/act_2.html#monster-goblin-scout",
     "title": "Act II",
     "section": "Goblin Scout",
-    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'leather-armor', 'name': 'Leather Armor', 'url': '/api/equipment/leather-armor'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
+    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: 15\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
   },
   {
     "objectID": "oneshots/snowbound/acts/act_3.html#story",
@@ -116,14 +116,14 @@
     "href": "oneshots/lonelygoblins/acts/act_2.html#monster-goblin-scout",
     "title": "Act II",
     "section": "Goblin Scout",
-    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'leather-armor', 'name': 'Leather Armor', 'url': '/api/equipment/leather-armor'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
+    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: 15\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
   },
   {
     "objectID": "oneshots/lonelygoblins/acts/act_2.html#monster-worg",
     "href": "oneshots/lonelygoblins/acts/act_2.html#monster-worg",
     "title": "Act II",
     "section": "Worg",
-    "text": "Worg\n\n\n\nHP: 26\nAC: [{'type': 'natural', 'value': 13}]\nSpeed: 50 feet\n\n\nType: Large Monstrosity (Neutral Evil)\nXP: 100\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Goblin, worg"
+    "text": "Worg\n\n\n\nHP: 26\nAC: 13\nSpeed: 50 feet\n\n\nType: Large Monstrosity (Neutral Evil)\nXP: 100\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Goblin, worg"
   },
   {
     "objectID": "oneshots/lonelygoblins/acts/act_3.html#story",
@@ -151,20 +151,20 @@
     "href": "oneshots/lonelygoblins/acts/act_3.html#monster-goblin-scout",
     "title": "Act III",
     "section": "Goblin Scout",
-    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'leather-armor', 'name': 'Leather Armor', 'url': '/api/equipment/leather-armor'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
+    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: 15\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
   },
   {
     "objectID": "oneshots/lonelygoblins/acts/act_3.html#monster-goblin-shaman",
     "href": "oneshots/lonelygoblins/acts/act_3.html#monster-goblin-shaman",
     "title": "Act III",
     "section": "Goblin Shaman",
-    "text": "Goblin Shaman\n\n\n\nHP: 21\nAC: [{'type': 'dex', 'value': 11}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 100\n\n\nVulnerabilities: bludgeoning\n\n\nResists:\n\n\nLanguages: Common, goblin"
+    "text": "Goblin Shaman\n\n\n\nHP: 21\nAC: 11\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 100\n\n\nVulnerabilities: bludgeoning\n\n\nResists:\n\n\nLanguages: Common, goblin"
   },
   {
     "objectID": "oneshots/lonelygoblins/acts/act_3.html#monster-worg",
     "href": "oneshots/lonelygoblins/acts/act_3.html#monster-worg",
     "title": "Act III",
     "section": "Worg",
-    "text": "Worg\n\n\n\nHP: 26\nAC: [{'type': 'natural', 'value': 13}]\nSpeed: 50 feet\n\n\nType: Large Monstrosity (Neutral Evil)\nXP: 100\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Goblin, worg"
+    "text": "Worg\n\n\n\nHP: 26\nAC: 13\nSpeed: 50 feet\n\n\nType: Large Monstrosity (Neutral Evil)\nXP: 100\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Goblin, worg"
   }
 ]
