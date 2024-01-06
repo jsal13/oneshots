@@ -12,4 +12,4 @@
 
 ## Enemies
 
-{{< include ../data/beast_frostbound_kobold.qmd >}}
+{{< include ../../bestiary/frostbound_kobold.qmd >}}

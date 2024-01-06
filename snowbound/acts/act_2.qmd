@@ -12,4 +12,4 @@
 
 ## Enemies
 
-{{< include ../data/beast_ice_cavern_goblin.qmd >}}
+{{< include ../../bestiary/ice_cavern_goblin.qmd >}}

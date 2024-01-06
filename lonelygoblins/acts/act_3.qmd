@@ -12,8 +12,8 @@
 
 ## Enemies
 
-{{< include ../data/beast_goblin_scout.qmd >}}
+{{< include ../../bestiary/goblin_scout.qmd >}}
 
-{{< include ../data/beast_goblin_shaman.qmd >}}
+{{< include ../../bestiary/goblin_shaman.qmd >}}
 
-{{< include ../data/beast_worg.qmd >}}
+{{< include ../../bestiary/worg.qmd >}}

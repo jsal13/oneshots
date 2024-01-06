@@ -12,13 +12,11 @@ book:
       - ./snowbound/acts/act_1.qmd
       - ./snowbound/acts/act_2.qmd
       - ./snowbound/acts/act_3.qmd
-      - ./snowbound/_reference.qmd
     - part: "Lonely Goblins"
       chapters:
       - ./lonelygoblins/acts/act_1.qmd
       - ./lonelygoblins/acts/act_2.qmd
       - ./lonelygoblins/acts/act_3.qmd
-      - ./lonelygoblins/_reference.qmd
   sidebar:
     collapse-level: 1
 
