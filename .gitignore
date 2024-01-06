@@ -2,3 +2,6 @@
 **/_book/*
 *.tex
 /.quarto/
+
+# Data files.  These are contained in the tar.gz files.
+5e-SRD-Monsters.json

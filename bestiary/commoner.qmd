@@ -1,0 +1,26 @@
+## Commoner {#monster-commoner}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 4</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 10}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Any Alignment)</td>
+            <td><b>XP</b>: 10</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Any one language (usually common)</td>
+        </tr>
+    </tbody>
+</table>
+```

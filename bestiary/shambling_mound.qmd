@@ -1,0 +1,26 @@
+## Shambling Mound {#monster-shambling-mound}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 136</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 15}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Plant (Unaligned)</td>
+            <td><b>XP</b>: 1800</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, fire</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: </td>
+        </tr>
+    </tbody>
+</table>
+```

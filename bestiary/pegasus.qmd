@@ -1,0 +1,26 @@
+## Pegasus {#monster-pegasus}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 59</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 12}]</td>
+            <td><b>Speed</b>: 60 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Celestial (Chaotic Good)</td>
+            <td><b>XP</b>: 450</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Understands celestial, common, elvish, and sylvan but can't speak</td>
+        </tr>
+    </tbody>
+</table>
+```

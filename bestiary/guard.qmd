@@ -1,0 +1,26 @@
+## Guard {#monster-guard}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 11</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 16, 'armor': [{'index': 'chain-shirt', 'name': 'Chain Shirt', 'url': '/api/equipment/chain-shirt'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Any Alignment)</td>
+            <td><b>XP</b>: 25</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Any one language (usually common)</td>
+        </tr>
+    </tbody>
+</table>
+```

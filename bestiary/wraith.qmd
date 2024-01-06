@@ -1,0 +1,26 @@
+## Wraith {#monster-wraith}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 67</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 13}]</td>
+            <td><b>Speed</b>: 0 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Undead (Neutral Evil)</td>
+            <td><b>XP</b>: 1800</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: The languages it knew in life</td>
+        </tr>
+    </tbody>
+</table>
+```

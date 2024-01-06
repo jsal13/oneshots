@@ -1,0 +1,26 @@
+## Awakened Tree {#monster-awakened-tree}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 59</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 13}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Huge Plant (Unaligned)</td>
+            <td><b>XP</b>: 450</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: fire</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: bludgeoning, piercing</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: One language known by its creator</td>
+        </tr>
+    </tbody>
+</table>
+```

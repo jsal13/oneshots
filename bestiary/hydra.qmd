@@ -1,0 +1,26 @@
+## Hydra {#monster-hydra}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 172</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 15}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Huge Monstrosity (Unaligned)</td>
+            <td><b>XP</b>: 3900</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: </td>
+        </tr>
+    </tbody>
+</table>
+```

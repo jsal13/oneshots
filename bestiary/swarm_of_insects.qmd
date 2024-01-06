@@ -1,0 +1,26 @@
+## Swarm of Insects {#monster-swarm-of-insects}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 22</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 12}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Swarm of tiny beasts (Unaligned)</td>
+            <td><b>XP</b>: 100</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: bludgeoning, piercing, slashing</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: </td>
+        </tr>
+    </tbody>
+</table>
+```

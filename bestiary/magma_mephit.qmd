@@ -1,0 +1,26 @@
+## Magma Mephit {#monster-magma-mephit}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 22</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 11}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Small Elemental (Neutral Evil)</td>
+            <td><b>XP</b>: 100</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: cold</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Ignan, terran</td>
+        </tr>
+    </tbody>
+</table>
+```

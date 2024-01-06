@@ -1,6 +1,26 @@
-### Goblin Scout {#goblin-scout}
+## Goblin Scout {#monster-goblin-scout}
 
-| HP  | AC  | Speed | Size  | Creature Type | Attacks                 |
-| --- | --- | ----- | ----- | ------------- | ----------------------- |
-| 9   | 12  | 30m   | Small | Goblin        | Sling (1d4 Bludgeoning) |
-|     |     |       |       |               | Dagger (1d4 Piercing)   |
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 7</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'leather-armor', 'name': 'Leather Armor', 'url': '/api/equipment/leather-armor'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Small Humanoid (Neutral Evil)</td>
+            <td><b>XP</b>: 50</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Common, goblin</td>
+        </tr>
+    </tbody>
+</table>
+```

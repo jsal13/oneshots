@@ -1,0 +1,26 @@
+## Dretch {#monster-dretch}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 18</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 11}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Small Fiend (Chaotic Evil)</td>
+            <td><b>XP</b>: 25</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, fire, lightning</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Abyssal, telepathy 60 ft. (works only with creatures that understand abyssal)</td>
+        </tr>
+    </tbody>
+</table>
+```

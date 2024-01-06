@@ -1,0 +1,26 @@
+## Elk {#monster-elk}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 13</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 10}]</td>
+            <td><b>Speed</b>: 50 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Beast (Unaligned)</td>
+            <td><b>XP</b>: 50</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: </td>
+        </tr>
+    </tbody>
+</table>
+```

@@ -1,0 +1,26 @@
+## Awakened Shrub {#monster-awakened-shrub}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 10</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 9}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Small Plant (Unaligned)</td>
+            <td><b>XP</b>: 10</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: fire</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: piercing</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: One language known by its creator</td>
+        </tr>
+    </tbody>
+</table>
+```

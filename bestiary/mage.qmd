@@ -1,0 +1,26 @@
+## Mage {#monster-mage}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 40</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 12}, {'type': 'spell', 'value': 15, 'spell': {'index': 'mage-armor', 'name': 'Mage Armor', 'url': '/api/spells/mage-armor'}}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Any Alignment)</td>
+            <td><b>XP</b>: 2300</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Any four languages</td>
+        </tr>
+    </tbody>
+</table>
+```

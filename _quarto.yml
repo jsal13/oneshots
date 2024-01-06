@@ -9,14 +9,14 @@ book:
     - index.qmd
     - part: "Snowbound"
       chapters:
-      - ./snowbound/acts/act_1.qmd
-      - ./snowbound/acts/act_2.qmd
-      - ./snowbound/acts/act_3.qmd
+      - ./oneshots/snowbound/acts/act_1.qmd
+      - ./oneshots/snowbound/acts/act_2.qmd
+      - ./oneshots/snowbound/acts/act_3.qmd
     - part: "Lonely Goblins"
       chapters:
-      - ./lonelygoblins/acts/act_1.qmd
-      - ./lonelygoblins/acts/act_2.qmd
-      - ./lonelygoblins/acts/act_3.qmd
+      - ./oneshots/lonelygoblins/acts/act_1.qmd
+      - ./oneshots/lonelygoblins/acts/act_2.qmd
+      - ./oneshots/lonelygoblins/acts/act_3.qmd
   sidebar:
     collapse-level: 1
 

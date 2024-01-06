@@ -1,0 +1,26 @@
+## Fire Giant {#monster-fire-giant}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 162</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 18, 'armor': [{'index': 'plate-armor', 'name': 'Plate Armor', 'url': '/api/equipment/plate-armor'}]}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Huge Giant (Lawful Evil)</td>
+            <td><b>XP</b>: 5000</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Giant</td>
+        </tr>
+    </tbody>
+</table>
+```

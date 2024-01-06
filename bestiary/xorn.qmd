@@ -1,0 +1,26 @@
+## Xorn {#monster-xorn}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 73</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 19}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Elemental (Neutral)</td>
+            <td><b>XP</b>: 1800</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: piercing and slashing from nonmagical weapons that aren't adamantine</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Terran</td>
+        </tr>
+    </tbody>
+</table>
+```

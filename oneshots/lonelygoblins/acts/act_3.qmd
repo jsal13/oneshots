@@ -1,0 +1,19 @@
+# Act III {.unnumbered}
+
+## Story
+
+{{< include ../descriptions/returning_to_the_abbey.qmd >}}
+
+{{< include ../descriptions/ending.qmd >}}
+
+## NPCs
+
+{{< include ../data/npcs.qmd >}}
+
+## Enemies
+
+{{< include ../../../bestiary/goblin_scout.qmd >}}
+
+{{< include ../../../bestiary/goblin_shaman.qmd >}}
+
+{{< include ../../../bestiary/worg.qmd >}}

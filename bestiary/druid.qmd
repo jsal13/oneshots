@@ -1,0 +1,26 @@
+## Druid {#monster-druid}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 27</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 11}, {'type': 'spell', 'value': 16, 'spell': {'index': 'barkskin', 'name': 'Barkskin', 'url': '/api/spells/barkskin'}}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Any Alignment)</td>
+            <td><b>XP</b>: 450</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Druidic plus any two languages</td>
+        </tr>
+    </tbody>
+</table>
+```

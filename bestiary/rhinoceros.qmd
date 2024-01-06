@@ -1,0 +1,26 @@
+## Rhinoceros {#monster-rhinoceros}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 45</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 11}]</td>
+            <td><b>Speed</b>: 40 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Beast (Unaligned)</td>
+            <td><b>XP</b>: 450</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: </td>
+        </tr>
+    </tbody>
+</table>
+```

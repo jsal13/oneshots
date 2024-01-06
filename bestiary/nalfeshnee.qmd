@@ -1,0 +1,26 @@
+## Nalfeshnee {#monster-nalfeshnee}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 184</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 18}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Fiend (Chaotic Evil)</td>
+            <td><b>XP</b>: 10000</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Abyssal, telepathy 120 ft.</td>
+        </tr>
+    </tbody>
+</table>
+```

@@ -1,0 +1,15 @@
+# Act II {.unnumbered}
+
+## Story 
+
+{{< include ../descriptions/approaching_goblin_camp.qmd >}}
+
+## NPCs
+
+{{< include ../data/npcs.qmd >}}
+
+## Enemies
+
+{{< include ../../../bestiary/goblin_scout.qmd >}}
+
+{{< include ../../../bestiary/worg.qmd >}}

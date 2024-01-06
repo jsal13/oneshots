@@ -1,0 +1,26 @@
+## Djinni {#monster-djinni}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 161</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 17}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Elemental (Chaotic Good)</td>
+            <td><b>XP</b>: 7200</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Auran</td>
+        </tr>
+    </tbody>
+</table>
+```

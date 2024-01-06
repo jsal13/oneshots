@@ -1,0 +1,26 @@
+## Sprite {#monster-sprite}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 2</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'leather-armor', 'name': 'Leather Armor', 'url': '/api/equipment/leather-armor'}]}]</td>
+            <td><b>Speed</b>: 10 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Tiny Fey (Neutral Good)</td>
+            <td><b>XP</b>: 50</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Common, elvish, sylvan</td>
+        </tr>
+    </tbody>
+</table>
+```

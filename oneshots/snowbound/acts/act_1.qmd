@@ -1,0 +1,15 @@
+# Act I {.unnumbered}
+
+## Story 
+
+{{< include ../descriptions/introduction.qmd >}}
+
+{{< include ../descriptions/kobold_ambush.qmd >}}
+
+## NPCs
+
+{{< include ../data/npcs.qmd >}}
+
+## Enemies
+
+{{< include ../../../bestiary/frostbound_kobold.qmd >}}

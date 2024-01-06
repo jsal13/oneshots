@@ -1,0 +1,26 @@
+## Erinyes {#monster-erinyes}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 153</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 18, 'armor': [{'index': 'plate-armor', 'name': 'Plate Armor', 'url': '/api/equipment/plate-armor'}]}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Fiend (Lawful Evil)</td>
+            <td><b>XP</b>: 8400</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Infernal, telepathy 120 ft.</td>
+        </tr>
+    </tbody>
+</table>
+```

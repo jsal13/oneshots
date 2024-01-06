@@ -1,0 +1,26 @@
+## Giant Eagle {#monster-giant-eagle}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 26</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 13}]</td>
+            <td><b>Speed</b>: 10 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Beast (Neutral Good)</td>
+            <td><b>XP</b>: 200</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Giant eagle, understands common and auran but can't speak</td>
+        </tr>
+    </tbody>
+</table>
+```

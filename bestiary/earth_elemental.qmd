@@ -1,0 +1,26 @@
+## Earth Elemental {#monster-earth-elemental}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 126</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 17}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Elemental (Neutral)</td>
+            <td><b>XP</b>: 1800</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: thunder</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: bludgeoning, piercing, and slashing from nonmagical weapons</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Terran</td>
+        </tr>
+    </tbody>
+</table>
+```

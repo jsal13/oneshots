@@ -1,0 +1,26 @@
+## Imp {#monster-imp}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 10</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 13}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Tiny Fiend (Lawful Evil)</td>
+            <td><b>XP</b>: 200</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, bludgeoning, piercing, and slashing from nonmagical/nonsilver weapons</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Infernal, common</td>
+        </tr>
+    </tbody>
+</table>
+```

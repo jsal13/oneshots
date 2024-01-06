@@ -1,0 +1,26 @@
+## Giant Elk {#monster-giant-elk}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 42</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 14}]</td>
+            <td><b>Speed</b>: 60 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Huge Beast (Unaligned)</td>
+            <td><b>XP</b>: 450</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Giant elk, understands common, elvish, and sylvan but can't speak</td>
+        </tr>
+    </tbody>
+</table>
+```

@@ -1,0 +1,26 @@
+## Lich {#monster-lich}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 135</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 17}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Undead (Any Evil Alignment)</td>
+            <td><b>XP</b>: 33000</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, lightning, necrotic</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Common plus up to five other languages</td>
+        </tr>
+    </tbody>
+</table>
+```

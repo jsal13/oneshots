@@ -1,0 +1,26 @@
+## Half-Red Dragon Veteran {#monster-half-red-dragon-veteran}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 65</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 18, 'armor': [{'index': 'plate-armor', 'name': 'Plate Armor', 'url': '/api/equipment/plate-armor'}]}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Any Alignment)</td>
+            <td><b>XP</b>: 1800</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: fire</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Common, draconic</td>
+        </tr>
+    </tbody>
+</table>
+```

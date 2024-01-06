@@ -1,0 +1,26 @@
+## Archmage {#monster-archmage}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 99</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 12}, {'type': 'spell', 'value': 15, 'spell': {'index': 'mage-armor', 'name': 'Mage Armor', 'url': '/api/spells/mage-armor'}}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Any Alignment)</td>
+            <td><b>XP</b>: 8400</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: damage from spells, nonmagical bludgeoning, piercing, and slashing (from stoneskin)</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Any six languages</td>
+        </tr>
+    </tbody>
+</table>
+```

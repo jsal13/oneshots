@@ -1,0 +1,26 @@
+## Will-o'-Wisp {#monster-will-o'-wisp}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 22</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 19}]</td>
+            <td><b>Speed</b>: 0 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Tiny Undead (Chaotic Evil)</td>
+            <td><b>XP</b>: 450</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: acid, cold, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: The languages it knew in life</td>
+        </tr>
+    </tbody>
+</table>
+```

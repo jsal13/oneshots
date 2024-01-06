@@ -1,0 +1,26 @@
+## Night Hag {#monster-night-hag}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 112</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 17}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Fiend (Neutral Evil)</td>
+            <td><b>XP</b>: 1800</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, fire, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Abyssal, common, infernal, primordial</td>
+        </tr>
+    </tbody>
+</table>
+```

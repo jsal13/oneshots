@@ -1,0 +1,26 @@
+## Pseudodragon {#monster-pseudodragon}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 7</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 13}]</td>
+            <td><b>Speed</b>: 15 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Tiny Dragon (Neutral Good)</td>
+            <td><b>XP</b>: 50</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Understands common and draconic but can't speak</td>
+        </tr>
+    </tbody>
+</table>
+```

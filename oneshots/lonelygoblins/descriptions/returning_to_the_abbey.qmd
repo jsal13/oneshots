@@ -1,0 +1,16 @@
+### Returning to the Abbey
+
+As the party swiftly makes their way back to the abbey, a sense of urgency propels their steps. The once tranquil path now feels fraught with tension, the distant echoes of the abbey's bell tolling an ominous warning in the air.
+
+Upon their return, the serenity that once enveloped the abbey has been shattered. The grounds are in disarray, signs of struggle evident in broken gates and scorch marks marring the walls. Smoke curls skyward from a few smoldering remnants of what were once serene gardens.
+
+A handful of goblins --- **three [goblin scouts](#monster-goblin-scout), a [goblin shaman](#monster-goblin-shaman), and their [worg](#monster-worg)** --- likely stragglers from the camp, have launched a brazen attack. 
+
+The adventurers find themselves thrust into the heart of the skirmish.  You're weary from battle, and no one has seen you so far.  You could run away and live to fight another day... or you could fight with Antwound Abbey.
+
+:::{.callout-note}
+**DM**: The battle happens here.  There is little chance of the party convincing these monsters not to attack.
+
+If they leave maybe have the goblins see them?  Or, you know, maybe they just skedaddle.  Read the room.
+:::
+

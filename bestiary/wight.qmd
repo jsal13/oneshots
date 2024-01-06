@@ -1,0 +1,26 @@
+## Wight {#monster-wight}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 45</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 14, 'armor': [{'index': 'studded-leather-armor', 'name': 'Studded Leather Armor', 'url': '/api/equipment/studded-leather-armor'}]}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Undead (Neutral Evil)</td>
+            <td><b>XP</b>: 700</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: necrotic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: The languages it knew in life</td>
+        </tr>
+    </tbody>
+</table>
+```

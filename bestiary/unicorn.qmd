@@ -1,0 +1,26 @@
+## Unicorn {#monster-unicorn}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 67</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 12}]</td>
+            <td><b>Speed</b>: 50 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Celestial (Lawful Good)</td>
+            <td><b>XP</b>: 1800</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Celestial, elvish, sylvan, telepathy 60 ft.</td>
+        </tr>
+    </tbody>
+</table>
+```

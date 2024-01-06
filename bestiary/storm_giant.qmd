@@ -1,0 +1,26 @@
+## Storm Giant {#monster-storm-giant}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 230</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 16, 'armor': [{'index': 'scale-mail', 'name': 'Scale Mail', 'url': '/api/equipment/scale-mail'}]}]</td>
+            <td><b>Speed</b>: 50 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Huge Giant (Chaotic Good)</td>
+            <td><b>XP</b>: 10000</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Common, giant</td>
+        </tr>
+    </tbody>
+</table>
+```

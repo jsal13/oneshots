@@ -1,0 +1,26 @@
+## Brass Dragon Wyrmling {#monster-brass-dragon-wyrmling}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 16</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 16}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Dragon (Chaotic Good)</td>
+            <td><b>XP</b>: 100</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Draconic</td>
+        </tr>
+    </tbody>
+</table>
+```

@@ -1,0 +1,26 @@
+## Assassin {#monster-assassin}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 78</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'studded-leather-armor', 'name': 'Studded Leather Armor', 'url': '/api/equipment/studded-leather-armor'}]}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Any Non-good Alignment)</td>
+            <td><b>XP</b>: 3900</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: poison</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Thieves' cant plus any two languages</td>
+        </tr>
+    </tbody>
+</table>
+```

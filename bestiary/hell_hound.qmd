@@ -1,0 +1,26 @@
+## Hell Hound {#monster-hell-hound}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 45</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 15}]</td>
+            <td><b>Speed</b>: 50 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Fiend (Lawful Evil)</td>
+            <td><b>XP</b>: 700</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Understands infernal but can't speak it</td>
+        </tr>
+    </tbody>
+</table>
+```

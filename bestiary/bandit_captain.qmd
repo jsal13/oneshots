@@ -1,0 +1,26 @@
+## Bandit Captain {#monster-bandit-captain}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 65</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'studded-leather-armor', 'name': 'Studded Leather Armor', 'url': '/api/equipment/studded-leather-armor'}]}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Any Non-lawful Alignment)</td>
+            <td><b>XP</b>: 450</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Any two languages</td>
+        </tr>
+    </tbody>
+</table>
+```

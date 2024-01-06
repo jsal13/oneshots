@@ -1,0 +1,26 @@
+## Lemure {#monster-lemure}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 13</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 7}]</td>
+            <td><b>Speed</b>: 15 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Fiend (Lawful Evil)</td>
+            <td><b>XP</b>: 10</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Understands infernal but can't speak</td>
+        </tr>
+    </tbody>
+</table>
+```

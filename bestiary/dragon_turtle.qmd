@@ -1,0 +1,26 @@
+## Dragon Turtle {#monster-dragon-turtle}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 341</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 20}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Gargantuan Dragon (Neutral)</td>
+            <td><b>XP</b>: 18000</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: fire</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Aquan, draconic</td>
+        </tr>
+    </tbody>
+</table>
+```

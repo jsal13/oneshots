@@ -1,0 +1,26 @@
+## Succubus/Incubus {#monster-succubus/incubus}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 66</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 15}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Fiend (Neutral Evil)</td>
+            <td><b>XP</b>: 1100</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Abyssal, common, infernal, telepathy 60 ft.</td>
+        </tr>
+    </tbody>
+</table>
+```

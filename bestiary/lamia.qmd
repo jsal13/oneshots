@@ -1,0 +1,26 @@
+## Lamia {#monster-lamia}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 97</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 13}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Monstrosity (Chaotic Evil)</td>
+            <td><b>XP</b>: 1100</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Abyssal, common</td>
+        </tr>
+    </tbody>
+</table>
+```

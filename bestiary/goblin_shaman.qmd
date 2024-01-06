@@ -1,6 +1,26 @@
-### Goblin Shaman {#goblin-shaman}
+## Goblin Shaman {#monster-goblin-shaman}
 
-| HP  | AC  | Speed | Size  | Creature Type | Attacks             |
-| --- | --- | ----- | ----- | ------------- | ------------------- |
-| 9   | 12  | 30m   | Small | Goblin        | Guilding Bolt (4d6) |
-|     |     |       |       |               | Cure Wounds (1d8)   |
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 21</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 11}]</td>
+            <td><b>Speed</b>: 30 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Small Humanoid (Neutral Evil)</td>
+            <td><b>XP</b>: 100</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: bludgeoning</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Common, goblin</td>
+        </tr>
+    </tbody>
+</table>
+```

@@ -1,0 +1,26 @@
+## Shadow {#monster-shadow}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 16</td>
+            <td><b>AC</b>: [{'type': 'dex', 'value': 12}]</td>
+            <td><b>Speed</b>: 40 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Undead (Chaotic Evil)</td>
+            <td><b>XP</b>: 100</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: radiant</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: </td>
+        </tr>
+    </tbody>
+</table>
+```

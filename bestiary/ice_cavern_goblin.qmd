@@ -1,6 +1,0 @@
-### Ice Cavern Goblin {#ice-cavern-goblin}
-
-| HP  | AC  | Speed | Size  | Creature Type | Attacks                      |
-| --- | --- | ----- | ----- | ------------- | ---------------------------- |
-|  8  | 12  | 30m   | Small | Goblin        | Ice-Bone Sword (1d6 Slashing)|
-|     |     |       |       |               | Snowball (2d4 Bludgeoning)   |

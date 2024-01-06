@@ -1,0 +1,26 @@
+## Rust Monster {#monster-rust-monster}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 27</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 14}]</td>
+            <td><b>Speed</b>: 40 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Monstrosity (Unaligned)</td>
+            <td><b>XP</b>: 100</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: </td>
+        </tr>
+    </tbody>
+</table>
+```

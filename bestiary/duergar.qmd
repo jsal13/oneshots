@@ -1,0 +1,26 @@
+## Duergar {#monster-duergar}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 26</td>
+            <td><b>AC</b>: [{'type': 'armor', 'value': 16, 'armor': [{'index': 'scale-mail', 'name': 'Scale Mail', 'url': '/api/equipment/scale-mail'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]</td>
+            <td><b>Speed</b>: 25 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Humanoid (Lawful Evil)</td>
+            <td><b>XP</b>: 200</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: poison</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Dwarvish, undercommon</td>
+        </tr>
+    </tbody>
+</table>
+```

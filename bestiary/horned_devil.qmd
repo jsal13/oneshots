@@ -1,0 +1,26 @@
+## Horned Devil {#monster-horned-devil}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 178</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 18}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Large Fiend (Lawful Evil)</td>
+            <td><b>XP</b>: 7200</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: Infernal, telepathy 120 ft.</td>
+        </tr>
+    </tbody>
+</table>
+```

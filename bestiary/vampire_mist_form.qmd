@@ -1,0 +1,26 @@
+## Vampire, Mist Form {#monster-vampire,-mist-form}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 144</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 16}]</td>
+            <td><b>Speed</b>: -1 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Undead (Lawful Evil)</td>
+            <td><b>XP</b>: 10000</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: </td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: necrotic, bludgeoning, piercing, and slashing from nonmagical weapons</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: The languages it knew in life</td>
+        </tr>
+    </tbody>
+</table>
+```

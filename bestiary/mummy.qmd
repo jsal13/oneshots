@@ -1,0 +1,26 @@
+## Mummy {#monster-mummy}
+
+```{=html}
+<table class="table table-striped">
+    <tbody>
+        <tr>                    
+            <td><b>HP</b>: 58</td>
+            <td><b>AC</b>: [{'type': 'natural', 'value': 11}]</td>
+            <td><b>Speed</b>: 20 feet</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Type</b>: Medium Undead (Lawful Evil)</td>
+            <td><b>XP</b>: 700</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Vulnerabilities</b>: fire</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Resists</b>: bludgeoning, piercing, and slashing from nonmagical weapons</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Languages</b>: The languages it knew in life</td>
+        </tr>
+    </tbody>
+</table>
+```
