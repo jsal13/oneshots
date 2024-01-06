@@ -5,7 +5,7 @@
     <tbody>
         <tr>                    
             <td><b>HP</b>: 200</td>
-            <td><b>AC</b>: [{'type': 'natural', 'value': 17}]</td>
+            <td><b>AC</b>: 17</td>
             <td><b>Speed</b>: 40 feet</td>
         </tr>
         <tr>

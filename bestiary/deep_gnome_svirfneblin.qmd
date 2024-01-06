@@ -5,7 +5,7 @@
     <tbody>
         <tr>                    
             <td><b>HP</b>: 16</td>
-            <td><b>AC</b>: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'chain-shirt', 'name': 'Chain Shirt', 'url': '/api/equipment/chain-shirt'}]}]</td>
+            <td><b>AC</b>: 15</td>
             <td><b>Speed</b>: 20 feet</td>
         </tr>
         <tr>

@@ -5,7 +5,7 @@
     <tbody>
         <tr>                    
             <td><b>HP</b>: 13</td>
-            <td><b>AC</b>: [{'type': 'armor', 'value': 13, 'desc': 'armor scraps'}]</td>
+            <td><b>AC</b>: 13</td>
             <td><b>Speed</b>: 30 feet</td>
         </tr>
         <tr>

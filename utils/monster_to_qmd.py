@@ -90,7 +90,7 @@ if __name__ == "__main__":
         m = Monster(
             name=d["name"],
             size=d["size"],
-            ac=d["armor_class"],
+            ac=_get_ac(d["armor_class"]),
             enemy_type=d["type"].capitalize(),
             alignment=" ".join(i.capitalize() for i in d["alignment"].split(" ")),
             hp=d["hit_points"],

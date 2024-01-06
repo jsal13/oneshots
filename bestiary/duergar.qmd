@@ -5,7 +5,7 @@
     <tbody>
         <tr>                    
             <td><b>HP</b>: 26</td>
-            <td><b>AC</b>: [{'type': 'armor', 'value': 16, 'armor': [{'index': 'scale-mail', 'name': 'Scale Mail', 'url': '/api/equipment/scale-mail'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]</td>
+            <td><b>AC</b>: 16</td>
             <td><b>Speed</b>: 25 feet</td>
         </tr>
         <tr>

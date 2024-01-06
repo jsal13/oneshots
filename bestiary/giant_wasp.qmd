@@ -5,7 +5,7 @@
     <tbody>
         <tr>                    
             <td><b>HP</b>: 13</td>
-            <td><b>AC</b>: [{'type': 'dex', 'value': 12}]</td>
+            <td><b>AC</b>: 12</td>
             <td><b>Speed</b>: 10 feet</td>
         </tr>
         <tr>

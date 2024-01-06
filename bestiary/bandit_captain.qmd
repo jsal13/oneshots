@@ -5,7 +5,7 @@
     <tbody>
         <tr>                    
             <td><b>HP</b>: 65</td>
-            <td><b>AC</b>: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'studded-leather-armor', 'name': 'Studded Leather Armor', 'url': '/api/equipment/studded-leather-armor'}]}]</td>
+            <td><b>AC</b>: 15</td>
             <td><b>Speed</b>: 30 feet</td>
         </tr>
         <tr>
