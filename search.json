@@ -7,115 +7,164 @@
     "text": "One-Shots\nThis is a collection of one-shots! See the side bar for more details."
   },
   {
-    "objectID": "snowbound/acts/act_1.html#story",
-    "href": "snowbound/acts/act_1.html#story",
+    "objectID": "oneshots/snowbound/acts/act_1.html#story",
+    "href": "oneshots/snowbound/acts/act_1.html#story",
     "title": "Act I",
     "section": "Story",
     "text": "Story\n\nIntroduction\nThe biting cold cuts through the air like a thousand icy daggers, a relentless blizzard sweeping across the barren landscape. The land, blanketed in a pristine sheet of snow, stretches out in every direction, an endless expanse of white broken only by the occasional jagged rock jutting out of the frozen ground.\nThe howling winds whip the snow into a frenzy, creating swirling, ghostly shapes that dance and twist before disappearing into the storm. Visibility is limited to mere feet, the world beyond obscured by a veil of relentless snowflakes.\nOccasionally, a solitary, gnarled tree stands stoically amidst the snow, its branches weighed down by frost, a solemn sentinel in this desolate realm. The few creatures that call this place home are elusive and adapted to survive in these harsh conditions—perhaps a pack of resilient arctic wolves, their fur blending seamlessly with the snow, or a majestic yet elusive snow owl soaring high above, barely visible against the white backdrop.\nAgainst the backdrop of the vast, snowy expanse, a small caravan of covered wagons trudges forward, leaving a trail of deep imprints in the pristine white. The wagons, coated in a layer of frost, are pulled by sturdy, thick-coated draft horses, their breath forming misty clouds in the frigid air.\nThe wagons creak and groan with each movement, their wooden wheels struggling against the resistance of the snow. Tied securely to the sides are various supplies—bundles of firewood, barrels of provisions, and stacks of furs, all carefully lashed down to prevent them from toppling in the rough terrain.\nThe travelers accompanying the wagons are bundled in layers of furs and thick cloaks, their faces partially obscured by scarves and hoods pulled tightly around their heads to shield against the biting cold. They trudge alongside the wagons, occasionally pausing to help push or guide the struggling horses through the deeper drifts.\nOccasionally, the lead wagon stops, and a traveler wielding a sturdy pole hops down to probe the snow-covered ground for hidden hazards like treacherous ice or deep snowbanks. The caravan navigates carefully, each member playing a crucial role in ensuring the safety of the group as they press on through the unforgiving winter landscape.\nIn the distance, a foreboding mountain range looms, its peaks obscured by the relentless storm. Yet, there’s an undeniable beauty to this desolation—a serene, untouched purity that holds a silent allure, inviting only the bravest or most foolhardy adventurers to explore its secrets.\nIt will take a half-day, Eldrid says, to reach the base.\n\nThe blizzard picks up and the wagons are circled to keep out the wind. You sit in the center of the wagon circle with a few others wrapped in furs with a small fire burning in front of you. You have been paid by the Duke to keep this wagon party safe so that they might recover a particularly valuable artifact.\n\n\n\nSnowbound Ambush\nA shrill cry pierces the air, followed by guttural snarls from the snowdrifts nearby. Emerging from the swirling snow come a pack of Frostbound Kobolds, their scaled bodies camouflaged against the white landscape. There seem to be three to the north and two to the east.\nThe Kobolds, their eyes glinting with malicious intent, brandish makeshift spears and icy daggers. They dart in and out of cover, using the snowbanks and rocks for cover as they launch their ambush.\nThe treacherous terrain is uneven, with hidden icy patches that make movement perilous. The Kobolds use this to their advantage, trying to lure your party into these hazardous areas to gain the upper hand.\n\n\n\n\n\n\nNote\n\n\n\nDM: The battle happens here. There is little chance of the party convincing these monsters not to attack.\n\n\nAfter the ambush, there is a quiet calm as the remaining members of the wagon party come out from their wagons. The sky begins to darken: it is almost night."
   },
   {
-    "objectID": "snowbound/acts/act_1.html#npcs",
-    "href": "snowbound/acts/act_1.html#npcs",
+    "objectID": "oneshots/snowbound/acts/act_1.html#npcs",
+    "href": "oneshots/snowbound/acts/act_1.html#npcs",
     "title": "Act I",
     "section": "NPCs",
     "text": "NPCs\n\nEldrid Frostbeard\nA grizzled dwarf merchant leading the caravan, Eldrid is known for his shrewd business sense and encyclopedic knowledge of rare artifacts. He seeks adventurers willing to escort his goods to a remote outpost.\n\n\nLyra Windrider\nA young elven druid traveling with the caravan. She’s attuned to the natural world and offers guidance on surviving in the harsh wilderness. Lyra seeks rare herbs and plants rumored to bloom even in the coldest of winters.\n\n\nIngrid Snowcloak\nA mysterious tiefling warlock who keeps to herself. Darius seems haunted by a dark past and seeks a relic rumored to be buried in the icy wastelands.\n\n\nElena Frostwind\nA young wizard’s apprentice eager for adventure. She’s in search of a lost arcane tome said to hold secrets of ancient spells, and she’s willing to assist adventurers in exchange for their aid in her quest."
   },
   {
-    "objectID": "snowbound/acts/act_1.html#enemies",
-    "href": "snowbound/acts/act_1.html#enemies",
+    "objectID": "oneshots/snowbound/acts/act_1.html#enemies",
+    "href": "oneshots/snowbound/acts/act_1.html#enemies",
     "title": "Act I",
     "section": "Enemies",
-    "text": "Enemies\n\nFrostbound Kobold\n\n\n\n\n\n\n\n\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n5\n12\n30m\nSmall\nKobold\nSpear (1d6 Piercing)\n\n\n\n\n\n\n\nSnowball (2d4 Bludgeoning)"
+    "text": "Enemies"
   },
   {
-    "objectID": "snowbound/acts/act_2.html#story",
-    "href": "snowbound/acts/act_2.html#story",
+    "objectID": "oneshots/snowbound/acts/act_1.html#monster-frostbound-kobold",
+    "href": "oneshots/snowbound/acts/act_1.html#monster-frostbound-kobold",
+    "title": "Act I",
+    "section": "Frostbound Kobold",
+    "text": "Frostbound Kobold\n\n\n\nHP: 5\nAC: [{'type': 'dex', 'value': 12}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Lawful Evil)\nXP: 25\n\n\nVulnerabilities: fire\n\n\nResists: cold\n\n\nLanguages: Common, draconic"
+  },
+  {
+    "objectID": "oneshots/snowbound/acts/act_2.html#story",
+    "href": "oneshots/snowbound/acts/act_2.html#story",
     "title": "Act II",
     "section": "Story",
-    "text": "Story\n\nTraveling to the Mountain\nAs the party journeys through the desolate snowy terrain, the imposing silhouette of the mountain range looms ever closer, its jagged peaks disappearing into the swirling blizzard above. The winds grow stronger, whipping up flurries of snow that dance in the air before settling on the frozen ground.\nThe mountain’s base draws nearer, revealed in glimpses through breaks in the swirling snow. It stands as a monolithic sentinel, its rocky facade covered in blankets of snow and ice. At its foothills, the party encounters a cave entrance partially obscured by a thick layer of frost, a potential shelter from the unforgiving elements.\nAs they approach the cave, they notice signs of recent habitation — a scattered pile of firewood, footprints in the snow leading in and out, and faint wisps of smoke escaping from within. The promise of warmth and respite from the biting cold beckons, yet the unknown mysteries and potential dangers lurking within the mountain’s depths remain.\nAfter speaking with Ingrid Snowcloak, Eldrid Frostbeard shouts to the party above the wind: “This is where our relic ought’a be. Close to this cave.”\n\n\nCave Ambush!\nAs the party cautiously enters the cave, the dim light barely penetrates the darkness within. The air is musty, carrying a distinct chill that seeps into their bones, contrasting sharply with the biting cold outside. The flickering flames of a small fire pit cast eerie shadows on the cave walls.\nBefore they can fully acclimate to the dimness, a series of guttural growls echo from the shadows. Suddenly, you see figures in the darkness — Ice Cavern Goblins. These goblins, adapted to the harsh environment, wear fur-lined cloaks and wield crude yet effective weapons crafted from ice and bone. Their eyes gleam with a predatory glint as they launch their ambush, hurling ice-tipped javelins. They seem to be in a defensive stance.\n\n\n\n\n\n\nNote\n\n\n\nDM: The party can either be friends or foes here. Fighting them will reward them with some loot, but making friends will allow the goblins to show the party where the relic — as well as a completely separate, but equally powerful relic — is located.\n\n\n\n\n\n\nflowchart LR\n  A{Party Decision}\n  A--&gt;|FIGHT|B[\"Get Ice-Bone swords, some firs, and gold.\\n  One has the relic.\"]\n  A--&gt;|FRIENDS|C[\"The goblins show the party where the relic\\n --- as well as a completely separate,\\n but equally powerful relic --- is located.\"]\n\n  linkStyle 0 stroke:red, stroke-width:4px\n  linkStyle 1 stroke:blue, stroke-width:4px"
+    "text": "Story\n\nTraveling to the Mountain\nAs the party journeys through the desolate snowy terrain, the imposing silhouette of the mountain range looms ever closer, its jagged peaks disappearing into the swirling blizzard above. The winds grow stronger, whipping up flurries of snow that dance in the air before settling on the frozen ground.\nThe mountain’s base draws nearer, revealed in glimpses through breaks in the swirling snow. It stands as a monolithic sentinel, its rocky facade covered in blankets of snow and ice. At its foothills, the party encounters a cave entrance partially obscured by a thick layer of frost, a potential shelter from the unforgiving elements.\nAs they approach the cave, they notice signs of recent habitation — a scattered pile of firewood, footprints in the snow leading in and out, and faint wisps of smoke escaping from within. The promise of warmth and respite from the biting cold beckons, yet the unknown mysteries and potential dangers lurking within the mountain’s depths remain.\nAfter speaking with Ingrid Snowcloak, Eldrid Frostbeard shouts to the party above the wind: “This is where our relic ought’a be. Close to this cave.”\n\n\nCave Ambush!\nAs the party cautiously enters the cave, the dim light barely penetrates the darkness within. The air is musty, carrying a distinct chill that seeps into their bones, contrasting sharply with the biting cold outside. The flickering flames of a small fire pit cast eerie shadows on the cave walls.\nBefore they can fully acclimate to the dimness, a series of guttural growls echo from the shadows. Suddenly, you see figures in the darkness — Ice Cavern Goblin Scouts. These goblins, adapted to the harsh environment, wear fur-lined cloaks and wield crude yet effective weapons crafted from ice and bone. Their eyes gleam with a predatory glint as they launch their ambush, hurling ice-tipped javelins. They seem to be in a defensive stance.\n\n\n\n\n\n\nNote\n\n\n\nDM: The party can either be friends or foes here. Fighting them will reward them with some loot, but making friends will allow the goblins to show the party where the relic — as well as a completely separate, but equally powerful relic — is located.\n\n\n\n\n\n\nflowchart LR\n  A{Party Decision}\n  A--&gt;|FIGHT|B[\"Get Ice-Bone swords, some firs, and gold.\\n  One has the relic.\"]\n  A--&gt;|FRIENDS|C[\"The goblins show the party where the relic\\n --- as well as a completely separate,\\n but equally powerful relic --- is located.\"]\n\n  linkStyle 0 stroke:red, stroke-width:4px\n  linkStyle 1 stroke:blue, stroke-width:4px"
   },
   {
-    "objectID": "snowbound/acts/act_2.html#npcs",
-    "href": "snowbound/acts/act_2.html#npcs",
+    "objectID": "oneshots/snowbound/acts/act_2.html#npcs",
+    "href": "oneshots/snowbound/acts/act_2.html#npcs",
     "title": "Act II",
     "section": "NPCs",
     "text": "NPCs\n\nEldrid Frostbeard\nA grizzled dwarf merchant leading the caravan, Eldrid is known for his shrewd business sense and encyclopedic knowledge of rare artifacts. He seeks adventurers willing to escort his goods to a remote outpost.\n\n\nLyra Windrider\nA young elven druid traveling with the caravan. She’s attuned to the natural world and offers guidance on surviving in the harsh wilderness. Lyra seeks rare herbs and plants rumored to bloom even in the coldest of winters.\n\n\nIngrid Snowcloak\nA mysterious tiefling warlock who keeps to herself. Darius seems haunted by a dark past and seeks a relic rumored to be buried in the icy wastelands.\n\n\nElena Frostwind\nA young wizard’s apprentice eager for adventure. She’s in search of a lost arcane tome said to hold secrets of ancient spells, and she’s willing to assist adventurers in exchange for their aid in her quest."
   },
   {
-    "objectID": "snowbound/acts/act_2.html#enemies",
-    "href": "snowbound/acts/act_2.html#enemies",
+    "objectID": "oneshots/snowbound/acts/act_2.html#enemies",
+    "href": "oneshots/snowbound/acts/act_2.html#enemies",
     "title": "Act II",
     "section": "Enemies",
-    "text": "Enemies\n\nIce Cavern Goblin\n\n\n\n\n\n\n\n\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n8\n12\n30m\nSmall\nGoblin\nIce-Bone Sword (1d6 Slashing)\n\n\n\n\n\n\n\nSnowball (2d4 Bludgeoning)"
+    "text": "Enemies"
   },
   {
-    "objectID": "snowbound/acts/act_3.html#story",
-    "href": "snowbound/acts/act_3.html#story",
+    "objectID": "oneshots/snowbound/acts/act_2.html#monster-goblin-scout",
+    "href": "oneshots/snowbound/acts/act_2.html#monster-goblin-scout",
+    "title": "Act II",
+    "section": "Goblin Scout",
+    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'leather-armor', 'name': 'Leather Armor', 'url': '/api/equipment/leather-armor'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
+  },
+  {
+    "objectID": "oneshots/snowbound/acts/act_3.html#story",
+    "href": "oneshots/snowbound/acts/act_3.html#story",
     "title": "Act III",
     "section": "Story",
     "text": "Story\n\nReturning to the Village\nEmerging from the cavern’s depths, the wagon party begins the long journey back. The travelers, now joined by the party, quickly bundle up in their winter gear, preparing for the continued trek through the unforgiving terrain.\nThe caravan sets off, the creaking of the wagons and the steady rhythm of horse hooves on the snow-covered ground marking their progression. The landscape, though still desolate, seems slightly less foreboding.\nAfter a long but mercifully uneventful trek, in the distance the party sees the flickering lights of the village begin to emerge, casting a warm and inviting glow against the snowy backdrop.\nYou meet the Duke at the pub. He is impressed with your work. He rewards you with a sack of gold and a single basic weapon, as well as an invitation to dine with him the following night.\n“Since you made it back alive, you’ve proven to me that you can brave the ice and snow. I’ll speak to you at dinner tomorrow regarding a new contract. You should be well-equip to handle this one… though, it is of a more sensitive nature than retrieving the relic…”\nPerhaps he is referring to the number of children over the past few months that have either gone missing or have been found exsanguinated. Perhaps not. The party will find out next time."
   },
   {
-    "objectID": "snowbound/acts/act_3.html#npcs",
-    "href": "snowbound/acts/act_3.html#npcs",
+    "objectID": "oneshots/snowbound/acts/act_3.html#npcs",
+    "href": "oneshots/snowbound/acts/act_3.html#npcs",
     "title": "Act III",
     "section": "NPCs",
     "text": "NPCs\n\nEldrid Frostbeard\nA grizzled dwarf merchant leading the caravan, Eldrid is known for his shrewd business sense and encyclopedic knowledge of rare artifacts. He seeks adventurers willing to escort his goods to a remote outpost.\n\n\nLyra Windrider\nA young elven druid traveling with the caravan. She’s attuned to the natural world and offers guidance on surviving in the harsh wilderness. Lyra seeks rare herbs and plants rumored to bloom even in the coldest of winters.\n\n\nIngrid Snowcloak\nA mysterious tiefling warlock who keeps to herself. Darius seems haunted by a dark past and seeks a relic rumored to be buried in the icy wastelands.\n\n\nElena Frostwind\nA young wizard’s apprentice eager for adventure. She’s in search of a lost arcane tome said to hold secrets of ancient spells, and she’s willing to assist adventurers in exchange for their aid in her quest."
   },
   {
-    "objectID": "lonelygoblins/acts/act_1.html#story",
-    "href": "lonelygoblins/acts/act_1.html#story",
+    "objectID": "oneshots/lonelygoblins/acts/act_1.html#story",
+    "href": "oneshots/lonelygoblins/acts/act_1.html#story",
     "title": "Act I",
     "section": "Story",
     "text": "Story\n\nIntroduction\nAs the sun dips beneath the horizon, you find you party walking along a serene forest path, lined with towering oaks and the gentle rustling of leaves. In the distance, atop a small hill, you spot the faint glow of torches flickering against the darkening sky. As you approach, the silhouette of a modest stone abbey comes into view, its peaceful aura disrupted by signs of distress.\nThe abbey, Antwound Abbey, dedicated to a forgotten deity, is a humble refuge for weary travelers and a sanctuary for those seeking solace. However, tonight, an air of unease hangs heavy as worried faces peer through windows and the somber toll of a bell resonates through the stillness of the evening.\nYou’re greeted by a concerned elder. She explain the situation: a nearby goblin camp has become increasingly aggressive, venturing closer to the abbey grounds each passing night. Their raids have disrupted the tranquility of this sacred place, stealing supplies, causing havoc, and instilling fear in the hearts of the resident clergy.\nThe elder implores for assistance. She offer what little she can, hoping that brave adventurers might aid in quelling this menace before it escalates further. The safety of the abbey and its inhabitants now rests upon the shoulders of those willing to stand against the goblin threat.\n\nIt will take a quarter-day, the Elder says, to reach the camp."
   },
   {
-    "objectID": "lonelygoblins/acts/act_1.html#npcs",
-    "href": "lonelygoblins/acts/act_1.html#npcs",
+    "objectID": "oneshots/lonelygoblins/acts/act_1.html#npcs",
+    "href": "oneshots/lonelygoblins/acts/act_1.html#npcs",
     "title": "Act I",
     "section": "NPCs",
     "text": "NPCs\n\nElder Wilhelmina\nThe wise and weathered human leader of the abbey, Elder Wilhelmina is a beacon of strength and wisdom. Her silver hair frames a face marked by experience, and her eyes hold a mix of compassion and concern.\n\n\nBrother Alden\nA young, devout half-orc cleric in training, Brother Alden exudes an unwavering faith in the abbey’s teachings. He’s eager to assist in any way possible,though his enthusiasm sometimes clouds his judgment.\n\n\nSister Emilia\nA skilled herbalist and caretaker, Sister Emilia, a forest elf, tends to the abbey’s garden, cultivating medicinal herbs and plants. She is a skilled botanist.\n\n\nLena the Orphan\nLena is a young orphan who found refuge at the abbey’s doorstep after tragedy befell her family. Despite her difficult past, she maintains an endearing optimism and a mischievous spirit. Lena is quick on her feet and often finds herself exploring every nook and cranny of the abbey grounds. Though there is something strange about the way she stares at you…"
   },
   {
-    "objectID": "lonelygoblins/acts/act_2.html#story",
-    "href": "lonelygoblins/acts/act_2.html#story",
+    "objectID": "oneshots/lonelygoblins/acts/act_2.html#story",
+    "href": "oneshots/lonelygoblins/acts/act_2.html#story",
     "title": "Act II",
     "section": "Story",
     "text": "Story\n\nApproaching Goblin Camp\nAs the party traverses through the dense forest, the air grows thick with the earthy scent of moss and damp foliage. The path ahead gradually narrows. The distant sounds of discordant voices and the clang of crude metal echo through the woods, growing louder as the adventurers draw closer. Ahead, a faint haze of smoke rises lazily through the trees, marking the location of the goblin camp.\nGoblins, small and wiry, scurry about, their movements quick and erratic. Some sharpen rusty blades, while others tend to scavenged meats roasting over open flames. There are five goblin scouts and a worg. A few squat figures engage in an animated argument, their guttural language filled with gruff tones and sharp barks.\nThe camp itself bears signs of recent raids, with stolen goods piled haphazardly and captured livestock penned in makeshift enclosures.\nThe adventurers have a moment to strategize and observe, hidden in the cover of the forest’s edge.\n\n\n\n\n\n\nNote\n\n\n\nDM: The goblins will not be friends with the party, but, you know. Figure something out if they try that.\n\n\nAfter the fight, there is a quiet calm as the party rests. The sky begins to darken: it would be best to get back to the Abbey."
   },
   {
-    "objectID": "lonelygoblins/acts/act_2.html#npcs",
-    "href": "lonelygoblins/acts/act_2.html#npcs",
+    "objectID": "oneshots/lonelygoblins/acts/act_2.html#npcs",
+    "href": "oneshots/lonelygoblins/acts/act_2.html#npcs",
     "title": "Act II",
     "section": "NPCs",
     "text": "NPCs\n\nElder Wilhelmina\nThe wise and weathered human leader of the abbey, Elder Wilhelmina is a beacon of strength and wisdom. Her silver hair frames a face marked by experience, and her eyes hold a mix of compassion and concern.\n\n\nBrother Alden\nA young, devout half-orc cleric in training, Brother Alden exudes an unwavering faith in the abbey’s teachings. He’s eager to assist in any way possible,though his enthusiasm sometimes clouds his judgment.\n\n\nSister Emilia\nA skilled herbalist and caretaker, Sister Emilia, a forest elf, tends to the abbey’s garden, cultivating medicinal herbs and plants. She is a skilled botanist.\n\n\nLena the Orphan\nLena is a young orphan who found refuge at the abbey’s doorstep after tragedy befell her family. Despite her difficult past, she maintains an endearing optimism and a mischievous spirit. Lena is quick on her feet and often finds herself exploring every nook and cranny of the abbey grounds. Though there is something strange about the way she stares at you…"
   },
   {
-    "objectID": "lonelygoblins/acts/act_2.html#enemies",
-    "href": "lonelygoblins/acts/act_2.html#enemies",
+    "objectID": "oneshots/lonelygoblins/acts/act_2.html#enemies",
+    "href": "oneshots/lonelygoblins/acts/act_2.html#enemies",
     "title": "Act II",
     "section": "Enemies",
-    "text": "Enemies\n\nGoblin Scout\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nSling (1d4 Bludgeoning)\n\n\n\n\n\n\n\nDagger (1d4 Piercing)\n\n\n\n\n\nWorg\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n26\n12\n30m\nLarge\nMonstrosity\n(2d6 + 3) Piercing"
+    "text": "Enemies"
   },
   {
-    "objectID": "lonelygoblins/acts/act_3.html#story",
-    "href": "lonelygoblins/acts/act_3.html#story",
+    "objectID": "oneshots/lonelygoblins/acts/act_2.html#monster-goblin-scout",
+    "href": "oneshots/lonelygoblins/acts/act_2.html#monster-goblin-scout",
+    "title": "Act II",
+    "section": "Goblin Scout",
+    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'leather-armor', 'name': 'Leather Armor', 'url': '/api/equipment/leather-armor'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
+  },
+  {
+    "objectID": "oneshots/lonelygoblins/acts/act_2.html#monster-worg",
+    "href": "oneshots/lonelygoblins/acts/act_2.html#monster-worg",
+    "title": "Act II",
+    "section": "Worg",
+    "text": "Worg\n\n\n\nHP: 26\nAC: [{'type': 'natural', 'value': 13}]\nSpeed: 50 feet\n\n\nType: Large Monstrosity (Neutral Evil)\nXP: 100\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Goblin, worg"
+  },
+  {
+    "objectID": "oneshots/lonelygoblins/acts/act_3.html#story",
+    "href": "oneshots/lonelygoblins/acts/act_3.html#story",
     "title": "Act III",
     "section": "Story",
-    "text": "Story\n\nReturning to the Abbey\nAs the party swiftly makes their way back to the abbey, a sense of urgency propels their steps. The once tranquil path now feels fraught with tension, the distant echoes of the abbey’s bell tolling an ominous warning in the air.\nUpon their return, the serenity that once enveloped the abbey has been shattered. The grounds are in disarray, signs of struggle evident in broken gates and scorch marks marring the walls. Smoke curls skyward from a few smoldering remnants of what were once serene gardens.\nA handful of goblins — three scouts, a shaman, and their worg — likely stragglers from the camp, have launched a brazen attack.\nThe adventurers find themselves thrust into the heart of the skirmish. You’re weary from battle, and no one has seen you so far. You could run away and live to fight another day… or you could fight with Antwound Abbey.\n\n\n\n\n\n\nNote\n\n\n\nDM: The battle happens here. There is little chance of the party convincing these monsters not to attack.\nIf they leave maybe have the goblins see them? Or, you know, maybe they just skedaddle. Read the room.\n\n\n\n\nThe Grateful Abbey\nThe air within the abbey carries a palpable sense of relief and gratitude as the chaos of battle fades into the past. In the aftermath of the successful defense against the goblin raid, a serene atmosphere returns, albeit tinged with the scars of recent conflict.\nElder Wilhelmina, her gaze softened with gratitude and admiration, stands at the forefront of the gathered residents. Her weathered face, usually etched with concern, now holds a radiant smile. She steps forward, the weight of responsibility momentarily lifted from her shoulders.\n“Dear friends,” she begins, her voice carrying a warmth that spreads through the assembly, “words cannot express the depth of our gratitude. You’ve defended our sanctuary, stood alongside us in our hour of need, and through your valor and determination, you’ve preserved the safety of our home.”\n\n\n\n\n\n\nNote\n\n\n\nDM: If Lena is alive and around, you may add the following.\nAmidst the heartfelt thanks, Lena, the young orphan, shyly steps forward, clutching hand-drawn sketches of the adventurers in action. “I drew these for you,” she murmurs, her eyes wide with admiration and gratitude. “So you won’t forget how brave you were!”\n\n\nElder Wilhelmina gives you a cup of yellow-green liquid which smells like oil and tastes like licorice. You and the party have a few cups over dinner. You sleep well in the Abbey dorms that night."
+    "text": "Story\n\nReturning to the Abbey\nAs the party swiftly makes their way back to the abbey, a sense of urgency propels their steps. The once tranquil path now feels fraught with tension, the distant echoes of the abbey’s bell tolling an ominous warning in the air.\nUpon their return, the serenity that once enveloped the abbey has been shattered. The grounds are in disarray, signs of struggle evident in broken gates and scorch marks marring the walls. Smoke curls skyward from a few smoldering remnants of what were once serene gardens.\nA handful of goblins — three goblin scouts, a goblin shaman, and their worg — likely stragglers from the camp, have launched a brazen attack.\nThe adventurers find themselves thrust into the heart of the skirmish. You’re weary from battle, and no one has seen you so far. You could run away and live to fight another day… or you could fight with Antwound Abbey.\n\n\n\n\n\n\nNote\n\n\n\nDM: The battle happens here. There is little chance of the party convincing these monsters not to attack.\nIf they leave maybe have the goblins see them? Or, you know, maybe they just skedaddle. Read the room.\n\n\n\n\nThe Grateful Abbey\nThe air within the abbey carries a palpable sense of relief and gratitude as the chaos of battle fades into the past. In the aftermath of the successful defense against the goblin raid, a serene atmosphere returns, albeit tinged with the scars of recent conflict.\nElder Wilhelmina, her gaze softened with gratitude and admiration, stands at the forefront of the gathered residents. Her weathered face, usually etched with concern, now holds a radiant smile. She steps forward, the weight of responsibility momentarily lifted from her shoulders.\n“Dear friends,” she begins, her voice carrying a warmth that spreads through the assembly, “words cannot express the depth of our gratitude. You’ve defended our sanctuary, stood alongside us in our hour of need, and through your valor and determination, you’ve preserved the safety of our home.”\n\n\n\n\n\n\nNote\n\n\n\nDM: If Lena is alive and around, you may add the following.\nAmidst the heartfelt thanks, Lena, the young orphan, shyly steps forward, clutching hand-drawn sketches of the adventurers in action. “I drew these for you,” she murmurs, her eyes wide with admiration and gratitude. “So you won’t forget how brave you were!”\n\n\nElder Wilhelmina gives you a cup of yellow-green liquid which smells like oil and tastes like licorice. You and the party have a few cups over dinner. You sleep well in the Abbey dorms that night."
   },
   {
-    "objectID": "lonelygoblins/acts/act_3.html#npcs",
-    "href": "lonelygoblins/acts/act_3.html#npcs",
+    "objectID": "oneshots/lonelygoblins/acts/act_3.html#npcs",
+    "href": "oneshots/lonelygoblins/acts/act_3.html#npcs",
     "title": "Act III",
     "section": "NPCs",
     "text": "NPCs\n\nElder Wilhelmina\nThe wise and weathered human leader of the abbey, Elder Wilhelmina is a beacon of strength and wisdom. Her silver hair frames a face marked by experience, and her eyes hold a mix of compassion and concern.\n\n\nBrother Alden\nA young, devout half-orc cleric in training, Brother Alden exudes an unwavering faith in the abbey’s teachings. He’s eager to assist in any way possible,though his enthusiasm sometimes clouds his judgment.\n\n\nSister Emilia\nA skilled herbalist and caretaker, Sister Emilia, a forest elf, tends to the abbey’s garden, cultivating medicinal herbs and plants. She is a skilled botanist.\n\n\nLena the Orphan\nLena is a young orphan who found refuge at the abbey’s doorstep after tragedy befell her family. Despite her difficult past, she maintains an endearing optimism and a mischievous spirit. Lena is quick on her feet and often finds herself exploring every nook and cranny of the abbey grounds. Though there is something strange about the way she stares at you…"
   },
   {
-    "objectID": "lonelygoblins/acts/act_3.html#enemies",
-    "href": "lonelygoblins/acts/act_3.html#enemies",
+    "objectID": "oneshots/lonelygoblins/acts/act_3.html#enemies",
+    "href": "oneshots/lonelygoblins/acts/act_3.html#enemies",
     "title": "Act III",
     "section": "Enemies",
-    "text": "Enemies\n\nGoblin Scout\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nSling (1d4 Bludgeoning)\n\n\n\n\n\n\n\nDagger (1d4 Piercing)\n\n\n\n\n\nGoblin Shaman\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n9\n12\n30m\nSmall\nGoblin\nGuilding Bolt (4d6)\n\n\n\n\n\n\n\nCure Wounds (1d8)\n\n\n\n\n\nWorg\n\n\n\nHP\nAC\nSpeed\nSize\nCreature Type\nAttacks\n\n\n\n\n26\n12\n30m\nLarge\nMonstrosity\n(2d6 + 3) Piercing"
+    "text": "Enemies"
+  },
+  {
+    "objectID": "oneshots/lonelygoblins/acts/act_3.html#monster-goblin-scout",
+    "href": "oneshots/lonelygoblins/acts/act_3.html#monster-goblin-scout",
+    "title": "Act III",
+    "section": "Goblin Scout",
+    "text": "Goblin Scout\n\n\n\nHP: 7\nAC: [{'type': 'armor', 'value': 15, 'armor': [{'index': 'leather-armor', 'name': 'Leather Armor', 'url': '/api/equipment/leather-armor'}, {'index': 'shield', 'name': 'Shield', 'url': '/api/equipment/shield'}]}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 50\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Common, goblin"
+  },
+  {
+    "objectID": "oneshots/lonelygoblins/acts/act_3.html#monster-goblin-shaman",
+    "href": "oneshots/lonelygoblins/acts/act_3.html#monster-goblin-shaman",
+    "title": "Act III",
+    "section": "Goblin Shaman",
+    "text": "Goblin Shaman\n\n\n\nHP: 21\nAC: [{'type': 'dex', 'value': 11}]\nSpeed: 30 feet\n\n\nType: Small Humanoid (Neutral Evil)\nXP: 100\n\n\nVulnerabilities: bludgeoning\n\n\nResists:\n\n\nLanguages: Common, goblin"
+  },
+  {
+    "objectID": "oneshots/lonelygoblins/acts/act_3.html#monster-worg",
+    "href": "oneshots/lonelygoblins/acts/act_3.html#monster-worg",
+    "title": "Act III",
+    "section": "Worg",
+    "text": "Worg\n\n\n\nHP: 26\nAC: [{'type': 'natural', 'value': 13}]\nSpeed: 50 feet\n\n\nType: Large Monstrosity (Neutral Evil)\nXP: 100\n\n\nVulnerabilities:\n\n\nResists:\n\n\nLanguages: Goblin, worg"
   }
 ]
